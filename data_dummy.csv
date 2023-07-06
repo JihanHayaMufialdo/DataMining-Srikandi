@@ -30,22 +30,3 @@ Tanggal,Tavg,RH_avg,RR,ss,ff_avg
 29-01-2022,"28,2",80,0,"7,1",1
 30-01-2022,"28,6",80,0,"1,6",2
 31-01-2022,"28,4",78,0,NaN,2
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-Keterangan :,,,,,
-8888: data tidak terukur,,,,,
-9999: Tidak Ada Data (tidak dilakukan pengukuran),,,,,
-Tavg: Temperatur rata-rata (°C),,,,,
-RH_avg: Kelembapan rata-rata (%),,,,,
-RR: Curah hujan (mm),,,,,
-ss: Lamanya penyinaran matahari (jam),,,,,
-ff_avg: Kecepatan angin rata-rata (m/s),,,,,
