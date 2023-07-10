@@ -1,4 +1,4 @@
-date,kejadian,jumlah_kecamatan_terdampak,jumlah_kelurahan_terdampak,jumlah_rw_terdampak,jumlah_rt_terdampak,max_tinggi_air,min_tinggi_air
+date,kejadian,kec_terdampak,kel_terdampak,rw_terdampak,rt_terdampak,max_tinggi_air,min_tinggi_air
 01-01-2020,Ya,4,12,56,76,150,10
 02-01-2020,Tidak,0,0,0,0,0,0
 03-01-2020,Tidak,0,0,0,0,0,0
